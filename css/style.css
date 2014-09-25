@@ -1,0 +1,11 @@
+/* This is a comment */
+/* Selector h1, Property color, Value */
+/* Syntax = punctuation, Semantic = meaning */
+/* Within Html there are two fields only "Head" and "Body" */
+body{
+  background:lime
+}
+
+h1{
+  color:red
+}
